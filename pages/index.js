@@ -34,19 +34,23 @@ export default function Home() {
         <QuizContainer>
           <Widget>
             <Widget.Header>
-              <h1>Teste</h1>
+              <h1>Pergunta 1</h1>
             </Widget.Header>
             <Widget.Content>
-              <p>Paragrafo1......</p>
+              <p>Resposta 1</p>
+              <p>Resposta 2</p>
+              <p>Resposta 3</p>
             </Widget.Content>
           </Widget>
           
           <Widget>
             <Widget.Header>
-              <h1>QUIZ</h1>
+              <h1>Pergunta 2</h1>
             </Widget.Header>
             <Widget.Content>
-              <p>Paragrafo2......</p>
+              <p>Resposta 1</p>
+              <p>Resposta 2</p>
+              <p>Resposta 3</p>
             </Widget.Content>
           </Widget>
           <Footer />

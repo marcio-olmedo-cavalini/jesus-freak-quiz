@@ -1,5 +1,5 @@
 {
-    "bg": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/51d80a24052501.5632fc4aad965.jpg",
+    "bg": "./img/BG_JF.png",
     "title": "Jesus Freak Quiz",
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
@@ -31,8 +31,8 @@
     ],
     "theme": {
       "colors": {
-        "primary": "#f44336",
-        "secondary": "#29b6f6",
+        "primary": "#ff9800",
+        "secondary": "#ff1744",
         "mainBg": "#171B35",
         "contrastText": "#FFFFFF",
         "wrong": "#FF5722",
