@@ -51,7 +51,7 @@ export default function Home() {
           </Widget>
           <Footer />
         </QuizContainer>
-        <GitHubCorner projectUrl="www.google.com.br"/>
+        <GitHubCorner projectUrl="https://github.com/marcio-olmedo-cavalini/jesus-freak-quiz"/>
     </QuizBackground>
   )
 }
